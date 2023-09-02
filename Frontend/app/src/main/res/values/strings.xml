@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">auebRUN</string>
+    <string name="title_upload">Upload a GPX File</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_segments">Segments</string>
+    <string name="done">Upload is done</string>
+</resources>
