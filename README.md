@@ -6,7 +6,8 @@ The purpose of this project was to create a distributed activity tracking applic
 
 An visual representation of the Map-Reduce framweork in our application:
 
-<img width="671" alt="map-reduce" src="https://github.com/mkontaratou/Activity-Tracking-App/assets/76455116/363d4d5b-8e86-4d25-a830-640b43aea612">
+<img width="671" alt="map-reduce" src="https://github.com/mkontaratou/Activity-Tracking-App/assets/76455116/4aca7c7a-4a0d-4898-8b6d-59b557445317">
+
 
 In the backend, the application includes techniques such as synchronization and multithreading (using TCP sockets) so that the system is able to handle multiple requests at the same time. As far as the frontend is concerned, the communication between the server and the application also utilizes TCP sockets. The goal was to create a consistent and user-friendly application 
 
@@ -19,7 +20,8 @@ For the program to run successdully, you need to open the Backend folder on Inte
 Afterwards, you need to open Android Studio and run the application using the correct IP ports.
 
 ## Demo 
-https://github.com/mkontaratou/Activity-Tracking-App/assets/76455116/12e81665-6024-418e-9048-eaccd2ad391b
+
+https://github.com/mkontaratou/Activity-Tracking-App/assets/76455116/2ebcd75f-7e29-4938-a5a6-eafa6c1ba3a1
 
 
 ## Contributors
